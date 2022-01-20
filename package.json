@@ -1,0 +1,27 @@
+{
+  "name": "manzoor",
+  "version": "1.0.0",
+  "description": "ExpressJS Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzooralam/ExpressJS-Tutorial.git"
+  },
+  "keywords": [
+    "expressJS",
+    "learning"
+  ],
+  "author": "Manzoor Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzooralam/ExpressJS-Tutorial/issues"
+  },
+  "homepage": "https://github.com/manzooralam/ExpressJS-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
